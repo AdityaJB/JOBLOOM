@@ -10,7 +10,7 @@ The Online Job Portal is a web application built on PHP, MySQL, HTML/CSS/Bootstr
 # Installation
 1. Clone the repository to your local machine using the following command:
 ```bash
-  [npm run deploy](https://github.com/csetanmaydeshmukh/JOBLOOM.git)https://github.com/csetanmaydeshmukh/JOBLOOM.git
+  [npm run deploy](https://github.com/AdityaJB/JOBLOOM.git)https://github.com/AdityaJB/JOBLOOM.git
 ```
 2. Configure the web server to serve the project's files. For Apache, you can copy the project folder into the "htdocs" directory.
 3. Create a MySQL database and import the provided SQL dump file (job_portal.sql) to set up the necessary tables and data.
